@@ -2,6 +2,8 @@
 
 ![Design preview for the Social links profile coding challenge](./preview.jpg)
 
+[View Deployed Page](frontendmentor-afsuyadi-project-sociallinksprofile.pages.dev)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
